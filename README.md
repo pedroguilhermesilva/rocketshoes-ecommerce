@@ -67,7 +67,7 @@ $ yarn start
 
 ## :memo: License
 
-Made with ♥ by Pedro Oliveira :wave: [Get in touch!](https://www.linkedin.com/in/lukemorales/)
+Made with ♥ by Pedro Oliveira :wave: [Get in touch!](https://www.linkedin.com/in/pedro-oliveira-72878480/)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
